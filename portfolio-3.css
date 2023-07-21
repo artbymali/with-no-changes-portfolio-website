@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+header{
+    padding: 35px 100px;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+}
+
+img {
+    width: 20px;
+    
+}
+
+.logo h2{
+    font-family: sans-serif;
+}
